@@ -23,6 +23,7 @@ li a:hover {
     background-color: #111;
 }
 
+
 /*Header*/
 .headerTop {
     text-align:center;
@@ -31,7 +32,6 @@ li a:hover {
     padding-top: 20px;
     padding-bottom: 198px;
     margin: 0px;
-
 }
 
 #relax {
@@ -43,6 +43,7 @@ li a:hover {
     padding-left:0px;
 
 }
+
 
 /* Starting Location*/
 .locationHeading {
@@ -66,6 +67,9 @@ li a:hover {
 }
 
 /* Ammenities */
+.ammenitiesHeading {
+    text-align: center;
+}
 
 #occasion {
     text-align:center;
@@ -82,3 +86,4 @@ li a:hover {
 #bookVille {
     text-align:center;
 }
+
