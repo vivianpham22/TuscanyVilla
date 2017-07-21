@@ -22,3 +22,18 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+/*Header*/
+
+.headerTop {
+    text-align:center;
+    background-image: url('images/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+    padding-bottom: 218px;
+
+}
+
+.secondTop{
+    padding-right:0px;
+    padding-left:0px;
+}
