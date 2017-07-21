@@ -24,7 +24,6 @@ li a:hover {
 }
 
 /*Header*/
-
 .headerTop {
     text-align:center;
     background-image: url('images/tuscany-villas-sant-anna.jpg');
@@ -45,13 +44,23 @@ li a:hover {
 
 }
 
+/* Starting Location*/
 .locationHeading {
     text-align: center;
     /*color: white;*/
     margin-top: 40px;
 }
 
-.locationPlace {
-    text-align: center;
-    /*color: white;*/
+/* Location One */
+#location1 {
+    /*margin: 10px;*/
+    padding:100px;
+}
+
+#location2 {
+    padding:100px;
+}
+
+#location3 {
+    padding:100px;
 }
