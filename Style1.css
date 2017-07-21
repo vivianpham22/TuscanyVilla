@@ -23,8 +23,8 @@ li a:hover {
     background-color: #111;
 }
 
-/*Header*/
 
+/*Header*/
 .headerTop {
     text-align:center;
     background-image: url('images/tuscany-villas-sant-anna.jpg');
@@ -32,7 +32,6 @@ li a:hover {
     padding-top: 20px;
     padding-bottom: 198px;
     margin: 0px;
-
 }
 
 #relax {
@@ -45,14 +44,32 @@ li a:hover {
 
 }
 
+
+/* Starting Location*/
 .locationHeading {
     text-align: center;
     /*color: white;*/
     margin-top: 40px;
 }
 
-.locationPlace {
+/* Three Locations */
+#location1 {
+    /*margin: 10px;*/
+    padding:100px;
+}
+
+#location2 {
+    padding:100px;
+}
+
+#location3 {
+    padding:100px;
+}
+
+/* Ammenities */
+.ammenitiesHeading {
     text-align: center;
+
     /*color: white;*/
 }
 
@@ -69,3 +86,21 @@ li a:hover {
 #location3 {
     padding:100px;
 }
+
+#occasion {
+    text-align:center;
+}
+
+#apart {
+    text-align:center;
+}
+
+#staff {
+    text-align:center;
+}
+
+#bookVille {
+    text-align:center;
+}
+
+
