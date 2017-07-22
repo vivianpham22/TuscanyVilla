@@ -111,4 +111,6 @@ li a:hover {
 
 /* Carousel */
 
-    
+.getHeight {
+    height: 200px;
+}
