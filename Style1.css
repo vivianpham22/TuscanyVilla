@@ -5,6 +5,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #565A82;
+    font-family: 'Cinzel', serif;
 }
 
 li {
@@ -20,7 +21,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #565A82;
 }
 
 
