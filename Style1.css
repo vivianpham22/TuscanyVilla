@@ -4,7 +4,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #565A82;
+    font-family: 'Cinzel', serif;
 }
 
 li {
@@ -20,20 +21,34 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #565A82;
 }
+
 
 /*Header*/
-
 .headerTop {
     text-align:center;
+    color: white;
     background-image: url('images/tuscany-villas-sant-anna.jpg');
     background-size: cover;
+    padding-top: 20px;
     padding-bottom: 218px;
-
+    margin: 0px;
 }
 
-.secondTop{
+#TV {
+    font-size: 55px;
+}
+
+#relax {
+    margin-bottom: 5.31px;
+    margin-top: 10px;
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+}
+
+.secondTop {
     padding-right:0px;
     padding-left:0px;
+
 }
