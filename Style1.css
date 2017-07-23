@@ -4,7 +4,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #565A82;
 }
 
 li {
@@ -48,8 +48,10 @@ li a:hover {
 /* Starting Location*/
 .locationHeading {
     text-align: center;
+    background-color:#565A82;
     /*color: white;*/
-    margin-top: 40px;
+    margin-top: 0px;
+    padding-top: 4px;
 }
 
 /* Three Locations */
