@@ -4,7 +4,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #565A82;
+    font-family: 'Cinzel', serif;
 }
 
 li {
@@ -20,22 +21,31 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #565A82;
 }
 
 
 /*Header*/
 .headerTop {
     text-align:center;
+    color: white;
     background-image: url('images/tuscany-villas-sant-anna.jpg');
     background-size: cover;
     padding-top: 20px;
-    padding-bottom: 198px;
+    padding-bottom: 218px;
     margin: 0px;
+}
+
+#TV {
+    font-size: 55px;
+
 }
 
 #relax {
     margin-bottom: 5.31px;
+    margin-top: 10px;
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
 }
 
 .secondTop {
@@ -45,67 +55,147 @@ li a:hover {
 }
 
 
+
+
 /* Starting Location*/
 .locationHeading {
+    background-color: #565A82;
     text-align: center;
-    /*color: white;*/
-    margin-top: 40px;
+    color: white;
+    padding-top: 40px;
+    
+}
+
+#firstLocationHead {
+    margin-bottom: 0px;
+}
+
+#secondLocationHead {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 35px;
 }
 
 /* Three Locations */
 #location1 {
-    /*margin: 10px;*/
+    margin: 10px;
     padding:100px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+
+.firstImage {
+    padding-top: 40px;
 }
 
 #location2 {
-    padding:100px;
+    background-color: #565A82;
+    margin: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 100px;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
 
 #location3 {
+    margin: 10px;
     padding:100px;
+    /*padding-bottom: 30px;*/
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
+
+
+
 
 /* Ammenities */
 .ammenitiesHeading {
     text-align: center;
-
-    /*color: white;*/
+    background-color: #565A82;
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 25px;
 }
 
-/* Location One */
-#location1 {
-    /*margin: 10px;*/
-    padding:100px;
-}
+#ammenitiesPad {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
 
-#location2 {
-    padding:100px;
-}
-
-#location3 {
-    padding:100px;
 }
 
 #occasion {
     text-align:center;
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
 }
+
+#ammenitiesPad2 {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
+}
+
 
 #apart {
     text-align:center;
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
+}
+
+#ammenitiesPad3 {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
 }
 
 #staff {
     text-align:center;
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
+}
+
+#ammenitiesPad4 {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
 }
 
 #bookVille {
     text-align:center;
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
 }
+
+
+#ammenitiesPad5 {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 40px;
+}
+
+
+
 
 /* Review */
 .reviewHeading {
     text-align:center;
+    background-color: #565A82;
 }
 
 /* Carousel */
@@ -119,10 +209,27 @@ li a:hover {
 /* Contact */
 .contactHeading {
     text-align: center;
+    background-color: #565A82;
 }
 
 
 /* Footer */
 .footerHeading {
     text-align: center;
+    background-color: #565A82;
+}
+
+#contactMode {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 50px;
+
+}
+
+.contactMode2 {
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 50px;
 }
