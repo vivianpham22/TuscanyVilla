@@ -74,6 +74,7 @@ li a:hover {
     margin-top: 0px;
     margin-bottom: 0px;
     padding-bottom: 35px;
+    color: white;
 }
 
 /* Three Locations */
@@ -82,8 +83,15 @@ li a:hover {
     padding:100px;
     padding-bottom: 40px;
     padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #565A82;
 }
 
+.locationOneSection {
+    margin-top: 45px;
+    color: #565A82;
+}
 
 .firstImage {
     padding-top: 40px;
@@ -97,15 +105,25 @@ li a:hover {
     padding: 100px;
     padding-bottom: 40px;
     padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    /*color:white;*/
+}
+
+.locationTwoSection {
+    color: white;
 }
 
 #location3 {
     margin: 10px;
     padding:100px;
-    /*padding-bottom: 30px;*/
     padding-bottom: 40px;
     padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #565A82;
 }
+
 
 
 
@@ -117,6 +135,17 @@ li a:hover {
     color: white;
     padding-bottom: 25px;
     padding-top: 25px;
+    margin-bottom: 0px;
+
+}
+
+#firstAmmenitiesHead {
+    margin-bottom: 0px;
+}
+
+#secondAmmenitiesHead {
+    margin-top: 0px;
+    color: white;
 }
 
 #ammenitiesPad {
@@ -126,6 +155,7 @@ li a:hover {
     padding-top: 40px;
 
 }
+
 
 #occasion {
     text-align:center;
@@ -196,6 +226,20 @@ li a:hover {
 .reviewHeading {
     text-align:center;
     background-color: #565A82;
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom: 0px;
+}
+
+#firstReviewHead {
+    margin-bottom:0px;
+
+}
+
+#secondReviewHead {
+    margin-top: 0px;
+    color: white;
 }
 
 /* Carousel */
@@ -210,14 +254,21 @@ li a:hover {
 .contactHeading {
     text-align: center;
     background-color: #565A82;
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom: 0px;
 }
 
-
-/* Footer */
-.footerHeading {
-    text-align: center;
-    background-color: #565A82;
+#firstContactHead {
+    margin-bottom: 0px;
 }
+
+#secondContactHead {
+    margin-top: 0px;
+    color: white;
+}
+
 
 #contactMode {
     margin: 0px;
@@ -232,4 +283,28 @@ li a:hover {
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 50px;
+}
+
+
+
+
+/* Footer */
+.footerHeading {
+    text-align: center;
+    background-color: #565A82;
+    color: white;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    margin-bottom: 0px;
+}
+
+#secondFooter {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+#thirdFooter {
+    margin-top: 0px;
+    color: white;
 }
