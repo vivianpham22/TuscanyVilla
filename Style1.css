@@ -4,7 +4,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #565A82;
+    background-color: #393454;
     font-family: 'Cinzel', serif;
 }
 
@@ -14,21 +14,21 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: #FAFAF5;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: #565A82;
+    background-color: #393454;
 }
 
 
 /*Header*/
 .headerTop {
     text-align:center;
-    color: white;
+    color: #FAFAF5;
     background-image: url('images/tuscany-villas-sant-anna.jpg');
     background-size: cover;
     padding-top: 20px;
@@ -59,9 +59,9 @@ li a:hover {
 
 /* Starting Location*/
 .locationHeading {
-    background-color: #565A82;
+    background-color: #393454;
     text-align: center;
-    color: white;
+    color: #FAFAF5;
     padding-top: 40px;
     
 }
@@ -74,7 +74,7 @@ li a:hover {
     margin-top: 0px;
     margin-bottom: 0px;
     padding-bottom: 35px;
-    color: white;
+    color: #FAFAF5;
 }
 
 /* Three Locations */
@@ -85,12 +85,12 @@ li a:hover {
     padding-top: 40px;
     padding-left: 50px;
     padding-right: 50px;
-    color: #565A82;
+    color: #393454;
 }
 
 .locationOneSection {
     margin-top: 45px;
-    color: #565A82;
+    color: #393454;
 }
 
 .firstImage {
@@ -98,7 +98,7 @@ li a:hover {
 }
 
 #location2 {
-    background-color: #565A82;
+    background-color: #393454;
     margin: 10px;
     margin-right: 0px;
     margin-left: 0px;
@@ -107,11 +107,11 @@ li a:hover {
     padding-top: 40px;
     padding-left: 50px;
     padding-right: 50px;
-    /*color:white;*/
+    color: #FAFAF5;
 }
 
 .locationTwoSection {
-    color: white;
+    color: #FAFAF5;
 }
 
 #location3 {
@@ -121,9 +121,8 @@ li a:hover {
     padding-top: 40px;
     padding-left: 50px;
     padding-right: 50px;
-    color: #565A82;
+    color: #393454;
 }
-
 
 
 
@@ -131,8 +130,8 @@ li a:hover {
 /* Ammenities */
 .ammenitiesHeading {
     text-align: center;
-    background-color: #565A82;
-    color: white;
+    background-color: #393454;
+    color: #FAFAF5;
     padding-bottom: 25px;
     padding-top: 25px;
     margin-bottom: 0px;
@@ -145,7 +144,7 @@ li a:hover {
 
 #secondAmmenitiesHead {
     margin-top: 0px;
-    color: white;
+    color: #FAFAF5;
 }
 
 #ammenitiesPad {
@@ -163,6 +162,7 @@ li a:hover {
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 40px;
+    color: #393454;
 }
 
 #ammenitiesPad2 {
@@ -179,6 +179,7 @@ li a:hover {
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 40px;
+    color: #393454;
 }
 
 #ammenitiesPad3 {
@@ -194,6 +195,7 @@ li a:hover {
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 40px;
+    color: #393454;
 }
 
 #ammenitiesPad4 {
@@ -201,6 +203,7 @@ li a:hover {
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 40px;
+    padding-bottom:40px;
 }
 
 #bookVille {
@@ -209,14 +212,20 @@ li a:hover {
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 40px;
+    color: #393454;
 }
 
+#parVille {
+    text-align: center;
+    color: #393454;
+}
 
 #ammenitiesPad5 {
     margin: 0px;
     padding:10px;
     /*padding-bottom: 40px;*/
     padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 
@@ -225,36 +234,52 @@ li a:hover {
 /* Review */
 .reviewHeading {
     text-align:center;
-    background-color: #565A82;
-    color: white;
+    background-color: #393454;
+    color: #FAFAF5;
     padding-bottom: 25px;
     padding-top: 25px;
     margin-bottom: 0px;
+    width: 100%;
+    color: #393454;
 }
 
 #firstReviewHead {
     margin-bottom:0px;
-
 }
 
 #secondReviewHead {
     margin-top: 0px;
-    color: white;
+    color: #FAFAF5;
 }
+
+
 
 /* Carousel */
 
-.getHeight {
-    height: 200px;
+.carPad {
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
+.getHeight {
+    height: 250px;
+
+}
+
+#firstSlide {
+    text-align: center;
+}
+
+#firstPerson {
+    text-align: center;
+}
 
 
 /* Contact */
 .contactHeading {
     text-align: center;
-    background-color: #565A82;
-    color: white;
+    background-color: #393454;
+    color: #FAFAF5;
     padding-bottom: 25px;
     padding-top: 25px;
     margin-bottom: 0px;
@@ -266,7 +291,7 @@ li a:hover {
 
 #secondContactHead {
     margin-top: 0px;
-    color: white;
+    color: #FAFAF5;
 }
 
 
@@ -291,8 +316,8 @@ li a:hover {
 /* Footer */
 .footerHeading {
     text-align: center;
-    background-color: #565A82;
-    color: white;
+    background-color: #393454;
+    color: #FAFAF5;
     padding-bottom: 35px;
     padding-top: 35px;
     margin-bottom: 0px;
@@ -301,10 +326,58 @@ li a:hover {
 #secondFooter {
     margin-top: 0px;
     margin-bottom: 0px;
-    color: white;
+    color: #FAFAF5;
 }
 
 #thirdFooter {
     margin-top: 0px;
-    color: white;
+    color: #FAFAF5;
+}
+
+
+
+
+/* Buttons */
+#button1 {
+    background-color: #393454;
+    color: #FAFAF5;
+}
+#button2 {
+    color: #393454;
+}
+
+#button3 {
+    background-color: #393454;
+    color: #FAFAF5;
+}
+
+#button4 {
+    background-color: #393454;
+    color: #FAFAF5;
+}
+
+#button5 {
+    background-color: #393454;
+    color: #FAFAF5;
+}
+
+#button6 {
+    background-color: #393454;
+    color: #FAFAF5;
+}
+
+#button7 {
+    background-color: #393454;
+    color: #FAFAF5;
+    height:30px; 
+    width: 100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
+#button8 {
+    background-color: #393454;
+    color: #FAFAF5;
 }
