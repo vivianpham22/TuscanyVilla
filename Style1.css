@@ -135,11 +135,14 @@ li a:hover {
     padding-bottom: 25px;
     padding-top: 25px;
     margin-bottom: 0px;
-
 }
 
 #firstAmmenitiesHead {
     margin-bottom: 0px;
+}
+
+,rowOne1 {
+    padding-right: 0px;
 }
 
 #secondAmmenitiesHead {
@@ -150,26 +153,31 @@ li a:hover {
 #ammenitiesPad {
     margin: 0px;
     padding:10px;
-    /*padding-bottom: 40px;*/
+    padding-bottom: 0px;
     padding-top: 40px;
 
 }
 
-
 #occasion {
     text-align:center;
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
+    /*margin: 0px;
+    padding:10px;*/
+    padding-bottom: 0px;
     padding-top: 40px;
     color: #393454;
 }
 
+.rowOne2 {
+    padding-right: 0px;
+}
+
 #ammenitiesPad2 {
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
+    /*margin: 0px;
+    padding:10px;*/
+    padding-bottom: 0px;
     padding-top: 40px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 
@@ -182,11 +190,19 @@ li a:hover {
     color: #393454;
 }
 
+.rowTwo1 {
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 300px;
+}
+
 #ammenitiesPad3 {
-    margin: 0px;
-    padding:10px;
+    /*margin: 0px;
+    padding:10px;*/
     /*padding-bottom: 40px;*/
-    padding-top: 40px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 #staff {
@@ -198,34 +214,53 @@ li a:hover {
     color: #393454;
 }
 
+
+
 #ammenitiesPad4 {
     margin: 0px;
     padding:10px;
     /*padding-bottom: 40px;*/
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom:40px;
 }
 
 #bookVille {
     text-align:center;
     margin: 0px;
+}
+#villaBook {
+    text-align:center;
+    color: #393454;
+    margin: 0px;
     padding:10px;
     /*padding-bottom: 40px;*/
-    padding-top: 40px;
-    color: #393454;
+    padding-top: 80px;   
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 #parVille {
     text-align: center;
     color: #393454;
+    text-align:center;
+    margin: 0px;
+    padding:10px;
+    /*padding-bottom: 40px;*/
+    padding-top: 10px;
+}
+
+#rowThree2 {
+    padding-left: 0px;
 }
 
 #ammenitiesPad5 {
     margin: 0px;
     padding:10px;
     /*padding-bottom: 40px;*/
-    padding-top: 40px;
+    padding-top: 0px;
     padding-bottom: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 
@@ -240,7 +275,6 @@ li a:hover {
     padding-top: 25px;
     margin-bottom: 0px;
     width: 100%;
-    color: #393454;
 }
 
 #firstReviewHead {
