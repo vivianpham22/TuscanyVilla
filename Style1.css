@@ -141,126 +141,89 @@ li a:hover {
     margin-bottom: 0px;
 }
 
-,rowOne1 {
-    padding-right: 0px;
-}
-
 #secondAmmenitiesHead {
     margin-top: 0px;
     color: #FAFAF5;
 }
 
-#ammenitiesPad {
-    margin: 0px;
-    padding:10px;
-    padding-bottom: 0px;
-    padding-top: 40px;
 
+/* Start */
+.rowOne1 {
+    padding: 0px;
+}
+
+
+#ammenitiesPad {
+    margin-top: 30px;
+    padding: 10px;
+ 
 }
 
 #occasion {
     text-align:center;
-    /*margin: 0px;
-    padding:10px;*/
-    padding-bottom: 0px;
-    padding-top: 40px;
+    margin-top: 50px;
     color: #393454;
-}
+    padding: 0px 20px 0px 20px;
 
-.rowOne2 {
-    padding-right: 0px;
+}
+.rowOne2 { 
+    padding: 0px;
 }
 
 #ammenitiesPad2 {
-    /*margin: 0px;
-    padding:10px;*/
-    padding-bottom: 0px;
-    padding-top: 40px;
-    padding-right: 0px;
-    padding-left: 0px;
+    margin-top: 30px;
+    padding: 10px;
 }
 
-
+/* ROW TWO */
 #apart {
-    text-align:center;
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
-    padding-top: 40px;
+    text-align:center; 
     color: #393454;
+    padding: 0px 20px 0px 20px;
 }
 
 .rowTwo1 {
-    padding-left: 0px;
-    padding-right: 0px;
-    height: 300px;
+    padding: 0px;
 }
 
 #ammenitiesPad3 {
-    /*margin: 0px;
-    padding:10px;*/
-    /*padding-bottom: 40px;*/
-    padding-top: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
+    padding: 0px 0px 0px 25px;
+ 
 }
 
 #staff {
     text-align:center;
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
-    padding-top: 40px;
     color: #393454;
+    padding: 0px 20px 0px 20px;
+    
 }
 
-
+/*ROW THREE*/
+.rowThree1 {
+    padding: 0px;
+}
 
 #ammenitiesPad4 {
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
-    padding-top: 20px;
-    padding-bottom:40px;
+    margin: 0px 0px 0px 30px;
+    padding: 35px 10px 10px 10px;
+
 }
 
-#bookVille {
-    text-align:center;
-    margin: 0px;
-}
-#villaBook {
+#bookVilla {
     text-align:center;
     color: #393454;
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
-    padding-top: 80px;   
-    padding-left: 0px;
-    padding-right: 0px;
-}
-
-#parVille {
-    text-align: center;
-    color: #393454;
-    text-align:center;
-    margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
-    padding-top: 10px;
+    margin-top: 50px;
+    padding: 0px 20px 0px 20px;
 }
 
 #rowThree2 {
-    padding-left: 0px;
+    padding: 0px;
 }
 
 #ammenitiesPad5 {
     margin: 0px;
-    padding:10px;
-    /*padding-bottom: 40px;*/
-    padding-top: 0px;
-    padding-bottom: 40px;
-    padding-left: 0px;
-    padding-right: 0px;
+    padding: 35px 10px 10px 10px;
+
 }
 
 
@@ -289,7 +252,6 @@ li a:hover {
 
 
 /* Carousel */
-
 .carPad {
     padding-left: 0px;
     padding-right: 0px;
@@ -299,12 +261,7 @@ li a:hover {
     height: 250px;
 
 }
-
-#firstSlide {
-    text-align: center;
-}
-
-#firstPerson {
+.Slides {
     text-align: center;
 }
 
@@ -403,12 +360,12 @@ li a:hover {
 #button7 {
     background-color: #393454;
     color: #FAFAF5;
-    height:30px; 
+    /*height:30px; 
     width: 100px; 
     margin: -20px -50px; 
     position:relative;
     top:50%; 
-    left:50%;
+    left:50%;*/
 }
 
 #button8 {
